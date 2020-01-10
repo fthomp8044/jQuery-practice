@@ -1,0 +1,20 @@
+body {
+  background-color: red;
+}
+
+.big-title {
+  color: yellow;
+  font-size: 8rem;
+  font-style: italic;
+}
+
+.big-button {
+  color: red;
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.margin-50 {
+  margin: 50px;
+}
